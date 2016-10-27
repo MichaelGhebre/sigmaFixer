@@ -1,1 +1,1 @@
-This function fixes the variance-covariance singularity by adding a small value in the diagonnal of the matrix. 
+This function fixes the variance-covariance singularity by adding a small value in the diagonal of the matrix. 
