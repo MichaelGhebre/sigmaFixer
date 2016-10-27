@@ -65,3 +65,4 @@ postDef <- function(Sigma){
 
 
 # Project2
+ # sigmaFixer
