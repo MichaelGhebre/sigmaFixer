@@ -3,7 +3,8 @@
 # University of Leicester, Uk    #
 # Date 26 Oct 2016              #
 ##################################
-# Variance covariance fixed 
+# This function fixes not positive define variance-covariance matrix 
+# by adding small value in the diagonal of the matrix 
 
 sigmaFixer <- function(sigma, ...){
   sigma <- as.matrix(sigma)
